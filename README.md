@@ -23,8 +23,8 @@ https://user-images.githubusercontent.com/62222747/137598244-1330f76e-517c-42de-
 
 ## What's going on ?
 
-![Diag](assets\diagram_1.svg)
-![ram](assets\diagram_2.svg)
+![Diag](https://github.com/RazvanTimboiu/Community-Detection/blob/master/assets/diagram_1.svg)
+![ram](https://github.com/RazvanTimboiu/Community-Detection/blob/master/assets/diagram_2.svg)
 
 ## Working with larger networks
 
@@ -45,15 +45,15 @@ https://user-images.githubusercontent.com/62222747/137598803-3fce514f-5bad-4bae-
 ## Drawings
 
 -   `books.png` - Best configuration found for the **books** network.
-    ![Books](drawings\books.png)
+    ![Books](https://github.com/RazvanTimboiu/Community-Detection/blob/master/drawings/books.png)
 -   `dolphins.png` - Best configuration found for the **dolphins** network.
-    ![Dolphins](drawings\dolphins.png)
+    ![Dolphins](https://github.com/RazvanTimboiu/Community-Detection/blob/master/drawings/dolphins.png)
 -   `football.png` - Best configuration found for the **football** network.
-    ![Football](drawings\football.png)
+    ![Football](https://github.com/RazvanTimboiu/Community-Detection/blob/master/drawings/football.png)
 -   `karate.png` - Best configuration found for the **karate** network.
-    ![Karate](drawings\karate.png)
+    ![Karate](https://github.com/RazvanTimboiu/Community-Detection/blob/master/drawings/karate.png)
 -   `words.png` - Best configuration found for the **words** network.
-    ![Words](drawings\words.png)
+    ![Words](https://github.com/RazvanTimboiu/Community-Detection/blob/master/drawings/words.png)
 
 ## Further Improvements
 
