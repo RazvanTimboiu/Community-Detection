@@ -1,0 +1,10 @@
+Record of best fitness obtained for each dataset.
+
+0. Demo -> 0.4895833333333334
+1. Karate -> 0.41978961209730375
+2. Dolphins -> 0.5267987816937608
+3. Football -> 0.5873395623374907
+4. Books -> 0.5254549287591235
+5. Words -> 0.2837564013840844
+
+Please update this file if you get better results.
