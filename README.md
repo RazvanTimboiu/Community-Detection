@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/62222747/137598244-1330f76e-517c-42de-
 ![Diag](https://github.com/RazvanTimboiu/Community-Detection/blob/master/assets/diagram_1.svg)
 ![ram](https://github.com/RazvanTimboiu/Community-Detection/blob/master/assets/diagram_2.svg)
 
-## Working with larger networks
+## Working with larger networkss
 
 https://user-images.githubusercontent.com/62222747/137598803-3fce514f-5bad-4bae-a90f-b1ee61d668c0.mp4
 
